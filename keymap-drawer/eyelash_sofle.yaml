@@ -109,8 +109,8 @@ layers:
   - RGB OFF
   - RGB ON
   - RGB EFF
-  - RGB EFR
-  - RGB SPI
+  - $$mdi:volume-high$$
+  - $$mdi:volume-low$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - RGB BRI
   - RGB BRD
